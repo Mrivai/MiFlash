@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XiaoMiFlash", "XiaoMiFlash.csproj", "{CFC5F2A4-AF68-42AB-904C-C3442E683215}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFC5F2A4-AF68-42AB-904C-C3442E683215}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFC5F2A4-AF68-42AB-904C-C3442E683215}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFC5F2A4-AF68-42AB-904C-C3442E683215}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFC5F2A4-AF68-42AB-904C-C3442E683215}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

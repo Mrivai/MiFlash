@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageLibrary>
+
+  <lan CTRLID="MainFrm" ENG=""
+       CHN_T=""
+       CHN_S="">
+  </lan>
+  <lan CTRLID="MainFrm.btnBrwDic" ENG="select" CHN_T="" CHN_S="选择"></lan>
+  <lan CTRLID="MainFrm.btnRefresh" ENG="refresh" CHN_T="" CHN_S="刷新"></lan>
+  <lan CTRLID="MainFrm.btnFlash" ENG="flash" CHN_T="" CHN_S="刷机"></lan>
+  <lan CTRLID="MainFrm.devicelist.cln0" ENG="id" CHN_T="" CHN_S="编号"></lan>
+  <lan CTRLID="MainFrm.devicelist.cln1" ENG="device" CHN_T="" CHN_S="设备"></lan>
+  <lan CTRLID="MainFrm.devicelist.cln2" ENG="progress" CHN_T="" CHN_S="进度"></lan>
+  <lan CTRLID="MainFrm.devicelist.cln3" ENG="elapse" CHN_T="" CHN_S="时间"></lan>
+  <lan CTRLID="MainFrm.devicelist.cln4" ENG="status" CHN_T="" CHN_S="状态"></lan>
+  <lan CTRLID="MainFrm.devicelist.cln5" ENG="result" CHN_T="" CHN_S="结果"></lan>
+  <lan CTRLID="MainFrm.statusLblMsg" ENG="device is busy" CHN_T="" CHN_S="设备正忙"></lan>
+  <lan CTRLID="MainFrm.rdoCleanAll" ENG="clean all" CHN_T="" CHN_S="全部删除"></lan>
+  <lan CTRLID="MainFrm.rdoSaveUserData" ENG="save user data" CHN_T="" CHN_S="保留用户数据"></lan>
+  <lan CTRLID="MainFrm.rdoCleanAllAndLock" ENG="clean all and lock" CHN_T="" CHN_S="全部删除并lock"></lan>
+</LanguageLibrary>

@@ -1,0 +1,1 @@
+[3:55:52]:fastboot path: D:\Dev\mi\XiaoMiFlash\bin\Debug\Source\ThirdParty\Google\Android\fastboot.exe

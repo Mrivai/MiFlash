@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <!--Project was exported from assembly: C:\XiaoMi\XiaoMiFlash\XiaoMiFlash.exe-->
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CFC5F2A4-AF68-42AB-904C-C3442E683215}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AssemblyName>XiaoMiFlash</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <RootNamespace>XiaoMiFlash</RootNamespace>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.0</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="MiInstaller.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="MiBaseFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="code\Utility\Log.cs" />
+    <Compile Include="code\Utility\MiAppConfig.cs" />
+    <Compile Include="code\Utility\CommandFormat.cs" />
+    <Compile Include="code\Utility\UsbDevice.cs" />
+    <Compile Include="code\Utility\Utility.cs" />
+    <Compile Include="code\Utility\ComPortCtrl.cs" />
+    <Compile Include="code\Utility\FileSearcher.cs" />
+    <Compile Include="code\Utility\Cmd.cs" />
+    <Compile Include="code\Utility\Driver.cs" />
+    <Compile Include="code\Utility\Comm.cs" />
+    <Compile Include="code\data\FlashingDevice.cs" />
+    <Compile Include="code\bl\DeviceCtrl.cs" />
+    <Compile Include="code\bl\SerialPortDevice.cs" />
+    <Compile Include="code\bl\ScriptDevice.cs" />
+    <Compile Include="code\bl\FileTransfer.cs" />
+    <Compile Include="code\bl\ImageValidation.cs" />
+    <Compile Include="code\module\FlashType.cs" />
+    <Compile Include="code\module\SoftwareImage.cs" />
+    <Compile Include="code\module\Storage.cs" />
+    <Compile Include="code\module\Programmer.cs" />
+    <Compile Include="code\module\Firehose.cs" />
+    <Compile Include="code\module\Script.cs" />
+    <Compile Include="code\module\Device.cs" />
+    <Compile Include="code\module\CommandPacket.cs" />
+    <Compile Include="code\lan\LanguageType.cs" />
+    <Compile Include="code\lan\LanguageProvider.cs" />
+    <Compile Include="code\miControl\RadioStripItem.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs" />
+    <Compile Include="Properties\Resources.Designer.cs" />
+    <Compile Include="form\ProcessFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\ConfigurationFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="code\Utility\OemSourceMediaType.cs" />
+    <Compile Include="code\Utility\OemCopyStyle.cs" />
+    <Compile Include="code\Utility\SetupUOInfFlags.cs" />
+    <Compile Include="code\module\Sahara.cs" />
+    <Compile Include="code\module\sahara_packet.cs" />
+    <Compile Include="code\module\sahara_hello_packet.cs" />
+    <Compile Include="code\module\sahara_hello_response.cs" />
+    <Compile Include="code\module\sahara_readdata_packet.cs" />
+    <Compile Include="code\module\sahara_64b_readdata_packet.cs" />
+    <Compile Include="code\module\sahara_end_transfer_packet.cs" />
+    <Compile Include="code\module\sahara_done_response.cs" />
+    <Compile Include="code\module\sahara_switch_Mode_packet.cs" />
+    <Compile Include="code\module\SparseImageHeader.cs" />
+    <Compile Include="code\module\SparseChunkHeader.cs" />
+    <Compile Include="code\module\Sparse.cs" />
+    <Compile Include="code\lan\ILanguageSupport.cs" />
+    <Compile Include="AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="form\ConfigurationFrm.resx" />
+    <EmbeddedResource Include="form\ProcessFrm.resx" />
+    <EmbeddedResource Include="MainFrm.resx" />
+    <EmbeddedResource Include="Properties\Resources.resx" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
