@@ -10,7 +10,6 @@ namespace XiaoMiFlash.form
 {
     public class ConfigurationFrm : Form
     {
-        private IContainer components;
         private CheckBox chkMD5;
 
         public ConfigurationFrm()
@@ -20,8 +19,6 @@ namespace XiaoMiFlash.form
 
         protected override void Dispose(bool disposing)
         {
-            if (disposing && components != null)
-                components.Dispose();
             base.Dispose(disposing);
         }
 

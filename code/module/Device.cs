@@ -18,123 +18,49 @@ namespace XiaoMiFlash.code.module
         private DeviceCtrl _devicectrl;
 
         public int ID
-        {
-            get
-            {
-                return _id;
-            }
-            set
-            {
-                _id = value;
-            }
-        }
+        { get { return _id; } set { _id = value; } }
 
         public string Name
-        {
-            get
-            {
-                return _name;
-            }
-            set
-            {
-                _name = value;
-            }
-        }
+        { get {  return _name;  } set { _name = value; } }
 
         public float Progress
         {
-            get
-            {
-                return _progress;
-            }
-            set
-            {
-                _progress = value;
-            }
+            get { return _progress; } set { _progress = value; }
         }
 
         public DateTime StartTime
         {
-            get
-            {
-                return _startTime;
-            }
-            set
-            {
-                _startTime = value;
-            }
+            get { return _startTime; } set { _startTime = value; }
         }
 
         public float Elapse
         {
-            get
-            {
-                return _elapse;
-            }
-            set
-            {
-                _elapse = value;
-            }
+            get { return _elapse; } set { _elapse = value; }
         }
 
         public string Status
         {
-            get
-            {
-                return _status;
-            }
-            set
-            {
-                _status = value;
-            }
+            get { return _status; } set { _status = value; }
         }
 
         public string Result
         {
-            get
-            {
-                return _result;
-            }
-            set
-            {
-                _result = value;
-            }
+            get { return _result; } set { _result = value; }
         }
 
         public bool? IsDone
         {
-            get
-            {
-                return _isdone;
-            }
-            set
-            {
-                _isdone = value;
-            }
+            get { return _isdone; } set { _isdone = value; }
         }
 
         public bool IsUpdate
         {
-            get
-            {
-                return _isupdate;
-            }
-            set
-            {
-                _isupdate = value;
-            }
+            get { return _isupdate; } set { _isupdate = value; }
         }
 
         public DeviceCtrl DeviceCtrl
         {
-            get
-            {
-                return _devicectrl;
-            }
-            set
-            {
-                _devicectrl = value;
-            }
+            get { return _devicectrl; } set { _devicectrl = value; }
         }
     }
 }

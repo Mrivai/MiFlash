@@ -334,6 +334,8 @@ namespace XiaoMiFlash
         {
             try
             {
+                string command = string.Format("pushd \"{0}\"&&prompt $$&&set PATH=\"{1}\";%PATH%&&\"{2}\" -s {3}&&popd", "F:\\Dev\\mi\\MiFlash\\bin\\Debug\\images", Script.AndroidPath, "flash.bat", "djhgjhgvjh");
+                Log.w("Commad:" + command);
                 btnRefresh.Enabled = false;
                 btnRefresh.Cursor = Cursors.WaitCursor;
                 List<Device> device = UsbDevice.GetDevice();
@@ -374,14 +376,7 @@ namespace XiaoMiFlash
                         {
                             int num1 = devicelist.Items.Count + 1;
                             ListViewItem listViewItem = new ListViewItem(new string[6]
-                            {
-                num1.ToString(),
-                d.Name,
-                "",
-                "0s",
-                "",
-                ""
-                            });
+                            {  num1.ToString(), d.Name, "", "0s", "", "" });
                             devicelist.Items.Add(listViewItem);
                             d.ID = num1;
                             d.Progress = 0.0f;
@@ -434,6 +429,8 @@ namespace XiaoMiFlash
                         flashDevice.Progress = 0.0f;
                         flashDevice.IsDone = new bool?(false);
                         flashDevice.IsUpdate = true;
+                        // fungsi untuk flash
+                        
                         DeviceCtrl deviceCtrl = flashDevice.DeviceCtrl;
                         deviceCtrl.deviceName = flashDevice.Name;
                         deviceCtrl.swPath = txtPath.Text.Trim();
@@ -458,8 +455,10 @@ namespace XiaoMiFlash
                 listViewItem.UseItemStyleForSubItems = false;
                 foreach (Device flashDevice in FlashingDevice.flashDeviceList)
                 {
+					//jika device ingin update (isupdate) = true dan nama device sesuai dengan yang ada di table
                     if (flashDevice.IsUpdate && flashDevice.Name.ToLower() == listViewItem.SubItems[1].Text.ToLower())
                     {
+						//
                         listViewItem.SubItems[2].Text = (flashDevice.Progress * 100.0).ToString() + "%";
                         foreach (Control control in (ArrangedElementCollection)devicelist.Controls)
                         {
@@ -537,7 +536,6 @@ namespace XiaoMiFlash
         {
             Environment.Exit(Environment.ExitCode);
             Dispose();
-            Close();
         }
 
         public override void SetLanguage()

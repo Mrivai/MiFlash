@@ -1,0 +1,129 @@
+[10:13:18  COM10]:[COM10]:start flash.
+[10:13:18  COM10]:received hello packet
+[10:13:18  COM10]:donwload programmer F:\Dev\mi\MiFlash\bin\Debug\images\prog_emmc_firehose_8976_ddr.mbn
+[10:13:18  COM10]:sahara read data:imgID 13, offset 0,length 52
+[10:13:18  COM10]:sahara read data:imgID 13, offset 52,length 288
+[10:13:18  COM10]:sahara read data:imgID 13, offset 4096,length 4096
+[10:13:18  COM10]:sahara read data:imgID 13, offset 8192,length 2632
+[10:13:18  COM10]:sahara read data:imgID 13, offset 330124,length 4096
+[10:13:18  COM10]:sahara read data:imgID 13, offset 334220,length 4096
+[10:13:18  COM10]:sahara read data:imgID 13, offset 338316,length 3876
+[10:13:18  COM10]:sahara read data:imgID 13, offset 342192,length 2504
+[10:13:18  COM10]:sahara read data:imgID 13, offset 12288,length 4096
+[10:13:18  COM10]:sahara read data:imgID 13, offset 16384,length 4096
+[10:13:18  COM10]:sahara read data:imgID 13, offset 20480,length 4096
+[10:13:18  COM10]:sahara read data:imgID 13, offset 24576,length 4096
+[10:13:18  COM10]:sahara read data:imgID 13, offset 28672,length 4096
+[10:13:18  COM10]:sahara read data:imgID 13, offset 32768,length 4096
+[10:13:18  COM10]:sahara read data:imgID 13, offset 36864,length 4096
+[10:13:18  COM10]:sahara read data:imgID 13, offset 40960,length 4096
+[10:13:18  COM10]:sahara read data:imgID 13, offset 45056,length 4096
+[10:13:18  COM10]:sahara read data:imgID 13, offset 49152,length 4096
+[10:13:18  COM10]:sahara read data:imgID 13, offset 53248,length 4096
+[10:13:18  COM10]:sahara read data:imgID 13, offset 57344,length 4096
+[10:13:18  COM10]:sahara read data:imgID 13, offset 61440,length 4096
+[10:13:18  COM10]:sahara read data:imgID 13, offset 65536,length 4096
+[10:13:18  COM10]:sahara read data:imgID 13, offset 69632,length 4096
+[10:13:18  COM10]:sahara read data:imgID 13, offset 73728,length 4096
+[10:13:18  COM10]:sahara read data:imgID 13, offset 77824,length 4096
+[10:13:18  COM10]:sahara read data:imgID 13, offset 81920,length 4096
+[10:13:18  COM10]:sahara read data:imgID 13, offset 86016,length 4096
+[10:13:18  COM10]:sahara read data:imgID 13, offset 90112,length 4096
+[10:13:18  COM10]:sahara read data:imgID 13, offset 94208,length 4096
+[10:13:18  COM10]:sahara read data:imgID 13, offset 98304,length 4096
+[10:13:18  COM10]:sahara read data:imgID 13, offset 102400,length 4096
+[10:13:18  COM10]:sahara read data:imgID 13, offset 106496,length 4096
+[10:13:18  COM10]:sahara read data:imgID 13, offset 110592,length 4096
+[10:13:18  COM10]:sahara read data:imgID 13, offset 114688,length 4096
+[10:13:18  COM10]:sahara read data:imgID 13, offset 118784,length 4096
+[10:13:18  COM10]:sahara read data:imgID 13, offset 122880,length 4096
+[10:13:18  COM10]:sahara read data:imgID 13, offset 126976,length 4096
+[10:13:18  COM10]:sahara read data:imgID 13, offset 131072,length 4096
+[10:13:18  COM10]:sahara read data:imgID 13, offset 135168,length 4096
+[10:13:18  COM10]:sahara read data:imgID 13, offset 139264,length 4096
+[10:13:18  COM10]:sahara read data:imgID 13, offset 143360,length 4096
+[10:13:18  COM10]:sahara read data:imgID 13, offset 147456,length 4096
+[10:13:18  COM10]:sahara read data:imgID 13, offset 151552,length 4096
+[10:13:18  COM10]:sahara read data:imgID 13, offset 155648,length 4096
+[10:13:18  COM10]:sahara read data:imgID 13, offset 159744,length 4096
+[10:13:18  COM10]:sahara read data:imgID 13, offset 163840,length 4096
+[10:13:18  COM10]:sahara read data:imgID 13, offset 167936,length 4096
+[10:13:18  COM10]:sahara read data:imgID 13, offset 172032,length 4096
+[10:13:19  COM10]:sahara read data:imgID 13, offset 176128,length 4096
+[10:13:19  COM10]:sahara read data:imgID 13, offset 180224,length 4096
+[10:13:19  COM10]:sahara read data:imgID 13, offset 184320,length 4096
+[10:13:19  COM10]:sahara read data:imgID 13, offset 188416,length 4096
+[10:13:19  COM10]:sahara read data:imgID 13, offset 192512,length 4096
+[10:13:19  COM10]:sahara read data:imgID 13, offset 196608,length 4096
+[10:13:19  COM10]:sahara read data:imgID 13, offset 200704,length 4096
+[10:13:19  COM10]:sahara read data:imgID 13, offset 204800,length 4096
+[10:13:19  COM10]:sahara read data:imgID 13, offset 208896,length 4096
+[10:13:19  COM10]:sahara read data:imgID 13, offset 212992,length 4096
+[10:13:19  COM10]:sahara read data:imgID 13, offset 217088,length 4096
+[10:13:19  COM10]:sahara read data:imgID 13, offset 221184,length 4096
+[10:13:19  COM10]:sahara read data:imgID 13, offset 225280,length 4096
+[10:13:19  COM10]:sahara read data:imgID 13, offset 229376,length 4096
+[10:13:19  COM10]:sahara read data:imgID 13, offset 233472,length 4096
+[10:13:19  COM10]:sahara read data:imgID 13, offset 237568,length 4096
+[10:13:19  COM10]:sahara read data:imgID 13, offset 241664,length 4096
+[10:13:19  COM10]:sahara read data:imgID 13, offset 245760,length 4096
+[10:13:19  COM10]:sahara read data:imgID 13, offset 249856,length 4096
+[10:13:19  COM10]:sahara read data:imgID 13, offset 253952,length 4096
+[10:13:19  COM10]:sahara read data:imgID 13, offset 258048,length 4096
+[10:13:19  COM10]:sahara read data:imgID 13, offset 262144,length 4096
+[10:13:19  COM10]:sahara read data:imgID 13, offset 266240,length 4096
+[10:13:19  COM10]:sahara read data:imgID 13, offset 270336,length 4096
+[10:13:19  COM10]:sahara read data:imgID 13, offset 274432,length 4096
+[10:13:19  COM10]:sahara read data:imgID 13, offset 278528,length 4096
+[10:13:19  COM10]:sahara read data:imgID 13, offset 282624,length 4096
+[10:13:19  COM10]:sahara read data:imgID 13, offset 286720,length 4096
+[10:13:19  COM10]:sahara read data:imgID 13, offset 290816,length 4096
+[10:13:19  COM10]:sahara read data:imgID 13, offset 294912,length 2620
+[10:13:19  COM10]:sahara read data:imgID 13, offset 297532,length 4096
+[10:13:19  COM10]:sahara read data:imgID 13, offset 301628,length 4096
+[10:13:19  COM10]:sahara read data:imgID 13, offset 305724,length 4096
+[10:13:19  COM10]:sahara read data:imgID 13, offset 309820,length 4096
+[10:13:19  COM10]:sahara read data:imgID 13, offset 313916,length 4096
+[10:13:19  COM10]:sahara read data:imgID 13, offset 318012,length 4096
+[10:13:19  COM10]:sahara read data:imgID 13, offset 322108,length 4096
+[10:13:19  COM10]:sahara read data:imgID 13, offset 326204,length 3920
+[10:13:19  COM10]:sahara read end  imgID:13 status:0
+[10:13:21  COM10]:file F:\Dev\mi\MiFlash\bin\Debug\images\prog_emmc_firehose_8976_ddr.mbn transferred successfully
+[10:13:22  COM10]:send nop command
+[10:13:22  COM10]:send command:<?xml version="1.0" ?><data><nop value="ping"/></data>
+[10:13:22  COM10]:get response from target
+[10:13:22  COM10]:dump:
+[10:13:22  COM10]:<?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" /></data><?xml version="1.0" encoding="UTF-8" ?><data><log value="logbuf@0x0806D788 fh@0x0806A5F0" /></data> 
+
+
+[10:13:23  COM10]:send configure command
+[10:13:23  COM10]:send command:<?xml version="1.0" ?><data><configure ZlpAwareHost="1" MaxPayloadSizeToTargetInBytes="131072" MemoryName="emmc" SkipStorageInit="0"/></data>
+[10:13:23  COM10]:get response from target
+[10:13:23  COM10]:dump:
+[10:13:23  COM10]:<?xml version="1.0" encoding="UTF-8" ?><data><log value="logbuf@0x0806D788 fh@0x0806A5F0" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" MinVersionSupported="1" MemoryName="eMMC" MaxPayloadSizeFromTargetInBytes="4096" MaxPayloadSizeToTargetInBytes="131072" MaxPayloadSizeToTargetInBytesSupported="1048576" MaxXMLSizeInBytes="4096" Version="1" TargetName="8976" /></data> 
+
+
+[10:13:23  COM10]:open program file F:\Dev\mi\MiFlash\bin\Debug\images\rawprogram0.xml
+[10:13:23  COM10]:Write file F:\Dev\mi\MiFlash\bin\Debug\images\emmc_appsboot.mbn to partition[aboot] sector 786432
+[10:13:23  COM10]:write file F:\Dev\mi\MiFlash\bin\Debug\images\emmc_appsboot.mbn legnth 609040 to partition 786432
+[10:13:23  COM10]:<?xml version="1.0" ?><data><program SECTOR_SIZE_IN_BYTES="512" num_partition_sectors="1190" start_sector="786432" physical_partition_number="0"/></data>
+[10:13:23  COM10]:WriteFile position 0, size 131072
+[10:13:23  COM10]:WriteFile position 20000, size 131072
+[10:13:23  COM10]:WriteFile position 40000, size 131072
+[10:13:23  COM10]:WriteFile position 60000, size 131072
+[10:13:23  COM10]:WriteFile position 80000, size 84992
+[10:13:23  COM10]:close file F:\Dev\mi\MiFlash\bin\Debug\images\emmc_appsboot.mbn
+[10:13:23  COM10]:Image F:\Dev\mi\MiFlash\bin\Debug\images\emmc_appsboot.mbn transferred successfully
+[10:13:23  COM10]:Write file F:\Dev\mi\MiFlash\bin\Debug\images\emmc_appsboot.mbn to partition[abootbak] sector 788480
+[10:13:23  COM10]:write file F:\Dev\mi\MiFlash\bin\Debug\images\emmc_appsboot.mbn legnth 609040 to partition 788480
+[10:13:23  COM10]:<?xml version="1.0" ?><data><program SECTOR_SIZE_IN_BYTES="512" num_partition_sectors="1190" start_sector="788480" physical_partition_number="0"/></data>
+[10:13:24  COM10]:WriteFile position 0, size 131072
+[10:13:24  COM10]:WriteFile position 20000, size 131072
+[10:13:24  COM10]:WriteFile position 40000, size 131072
+[10:13:24  COM10]:WriteFile position 60000, size 131072
+[10:13:24  COM10]:WriteFile position 80000, size 84992
+[10:13:24  COM10]:close file F:\Dev\mi\MiFlash\bin\Debug\images\emmc_appsboot.mbn
+[10:13:24  COM10]:Image F:\Dev\mi\MiFlash\bin\Debug\images\emmc_appsboot.mbn transferred successfully
+[10:13:30  COM10]:destruct close file F:\Dev\mi\MiFlash\bin\Debug\images\emmc_appsboot.mbn
+[10:13:30  COM10]:destruct close file F:\Dev\mi\MiFlash\bin\Debug\images\emmc_appsboot.mbn
+[10:13:30  COM10]:destruct close file F:\Dev\mi\MiFlash\bin\Debug\images\prog_emmc_firehose_8976_ddr.mbn

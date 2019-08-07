@@ -1,0 +1,5 @@
+[21:48:58  COM20]:[COM20]:start flash.
+[21:49:03  COM20]:can not read from port COM20
+[21:49:03  COM20]:   at XiaoMiFlash.code.Utility.Comm.getRecData() in F:\Dev\mi\MiFlash\code\Utility\Comm.cs:line 212
+   at XiaoMiFlash.code.bl.SerialPortDevice.SaharaDownloadProgrammer() in F:\Dev\mi\MiFlash\code\bl\SerialPortDevice.cs:line 101
+   at XiaoMiFlash.code.bl.SerialPortDevice.flash() in F:\Dev\mi\MiFlash\code\bl\SerialPortDevice.cs:line 49

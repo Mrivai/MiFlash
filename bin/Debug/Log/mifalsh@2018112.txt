@@ -1,0 +1,2 @@
+[07.12.49]:Commad:pushd "F:\Dev\mi\MiFlash\bin\Debug\images"&&prompt $$&&set PATH="F:\Dev\mi\MiFlash\bin\Debug\Source\ThirdParty\Google\Android";%PATH%&&"flash.bat" -s djhgjhgvjh&&popd
+[07.12.50]:fastboot path: F:\Dev\mi\MiFlash\bin\Debug\Source\ThirdParty\Google\Android\fastboot.exe

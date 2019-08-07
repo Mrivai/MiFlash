@@ -1,0 +1,6 @@
+[11:37:13]:fastboot path: F:\Dev\mi\MiFlash\bin\Debug\Source\ThirdParty\Google\Android\fastboot.exe
+[11:38:54]:fastboot path: F:\Dev\mi\MiFlash\bin\Debug\Source\ThirdParty\Google\Android\fastboot.exe
+[11:40:52]:fastboot path: F:\Dev\mi\MiFlash\bin\Debug\Source\ThirdParty\Google\Android\fastboot.exe
+[11:55:58]:fastboot path: F:\Dev\mi\MiFlash\bin\Debug\Source\ThirdParty\Google\Android\fastboot.exe
+[12:11:13]:fastboot path: F:\Dev\mi\MiFlash\bin\Debug\Source\ThirdParty\Google\Android\fastboot.exe
+[13:59:28]:fastboot path: F:\Dev\mi\MiFlash\bin\Debug\Source\ThirdParty\Google\Android\fastboot.exe

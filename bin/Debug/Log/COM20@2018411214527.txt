@@ -1,0 +1,627 @@
+[21:45:28  COM20]:[COM20]:start flash.
+[21:45:28  COM20]:received hello packet
+[21:45:28  COM20]:donwload programmer F:\program\MIUI\ROM\FASTBOOT\recovery\images\prog_emmc_firehose_8976_ddr.mbn
+[21:45:28  COM20]:sahara read data:imgID 13, offset 0,length 52
+[21:45:28  COM20]:sahara read data:imgID 13, offset 52,length 288
+[21:45:28  COM20]:sahara read data:imgID 13, offset 4096,length 4096
+[21:45:28  COM20]:sahara read data:imgID 13, offset 8192,length 2632
+[21:45:28  COM20]:sahara read data:imgID 13, offset 330140,length 4096
+[21:45:28  COM20]:sahara read data:imgID 13, offset 334236,length 4096
+[21:45:28  COM20]:sahara read data:imgID 13, offset 338332,length 3876
+[21:45:28  COM20]:sahara read data:imgID 13, offset 342208,length 2504
+[21:45:28  COM20]:sahara read data:imgID 13, offset 12288,length 4096
+[21:45:28  COM20]:sahara read data:imgID 13, offset 16384,length 4096
+[21:45:28  COM20]:sahara read data:imgID 13, offset 20480,length 4096
+[21:45:28  COM20]:sahara read data:imgID 13, offset 24576,length 4096
+[21:45:28  COM20]:sahara read data:imgID 13, offset 28672,length 4096
+[21:45:28  COM20]:sahara read data:imgID 13, offset 32768,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 36864,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 40960,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 45056,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 49152,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 53248,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 57344,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 61440,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 65536,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 69632,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 73728,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 77824,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 81920,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 86016,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 90112,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 94208,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 98304,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 102400,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 106496,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 110592,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 114688,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 118784,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 122880,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 126976,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 131072,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 135168,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 139264,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 143360,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 147456,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 151552,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 155648,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 159744,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 163840,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 167936,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 172032,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 176128,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 180224,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 184320,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 188416,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 192512,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 196608,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 200704,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 204800,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 208896,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 212992,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 217088,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 221184,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 225280,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 229376,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 233472,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 237568,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 241664,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 245760,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 249856,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 253952,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 258048,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 262144,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 266240,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 270336,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 274432,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 278528,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 282624,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 286720,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 290816,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 294912,length 2636
+[21:45:29  COM20]:sahara read data:imgID 13, offset 297548,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 301644,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 305740,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 309836,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 313932,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 318028,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 322124,length 4096
+[21:45:29  COM20]:sahara read data:imgID 13, offset 326220,length 3920
+[21:45:30  COM20]:sahara read end  imgID:13 status:0
+[21:45:32  COM20]:file F:\program\MIUI\ROM\FASTBOOT\recovery\images\prog_emmc_firehose_8976_ddr.mbn transferred successfully
+[21:45:33  COM20]:send nop command
+[21:45:33  COM20]:send command:<?xml version="1.0" ?><data><nop value="ping"/></data>
+[21:45:33  COM20]:get response from target
+[21:45:33  COM20]:dump:
+[21:45:33  COM20]:<?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" /></data><?xml version="1.0" encoding="UTF-8" ?><data><log value="logbuf@0x0806D788 fh@0x0806A5F0" /></data> 
+
+
+[21:45:33  COM20]:send configure command
+[21:45:33  COM20]:send command:<?xml version="1.0" ?><data><configure ZlpAwareHost="1" MaxPayloadSizeToTargetInBytes="131072" MemoryName="emmc" SkipStorageInit="0"/></data>
+[21:45:33  COM20]:get response from target
+[21:45:33  COM20]:dump:
+[21:45:33  COM20]:<?xml version="1.0" encoding="UTF-8" ?><data><log value="logbuf@0x0806D788 fh@0x0806A5F0" /></data><?xml version="1.0" encoding="UTF-8" ?><data><response value="ACK" MinVersionSupported="1" MemoryName="eMMC" MaxPayloadSizeFromTargetInBytes="4096" MaxPayloadSizeToTargetInBytes="131072" MaxPayloadSizeToTargetInBytesSupported="1048576" MaxXMLSizeInBytes="4096" Version="1" TargetName="8976" /></data> 
+
+
+[21:45:34  COM20]:open program file F:\program\MIUI\ROM\FASTBOOT\recovery\images\rawprogram0.xml
+[21:45:34  COM20]:Write file F:\program\MIUI\ROM\FASTBOOT\recovery\images\recovery.img to partition[recovery] sector 921600
+[21:45:34  COM20]:write file F:\program\MIUI\ROM\FASTBOOT\recovery\images\recovery.img legnth 67108864 to partition 921600
+[21:45:34  COM20]:<?xml version="1.0" ?><data><program SECTOR_SIZE_IN_BYTES="512" num_partition_sectors="131072" start_sector="921600" physical_partition_number="0"/></data>
+[21:45:34  COM20]:WriteFile position 0, size 131072
+[21:45:34  COM20]:WriteFile position 20000, size 131072
+[21:45:34  COM20]:WriteFile position 40000, size 131072
+[21:45:34  COM20]:WriteFile position 60000, size 131072
+[21:45:34  COM20]:WriteFile position 80000, size 131072
+[21:45:34  COM20]:WriteFile position A0000, size 131072
+[21:45:34  COM20]:WriteFile position C0000, size 131072
+[21:45:34  COM20]:WriteFile position E0000, size 131072
+[21:45:34  COM20]:WriteFile position 100000, size 131072
+[21:45:34  COM20]:WriteFile position 120000, size 131072
+[21:45:34  COM20]:WriteFile position 140000, size 131072
+[21:45:34  COM20]:WriteFile position 160000, size 131072
+[21:45:34  COM20]:WriteFile position 180000, size 131072
+[21:45:34  COM20]:WriteFile position 1A0000, size 131072
+[21:45:34  COM20]:WriteFile position 1C0000, size 131072
+[21:45:34  COM20]:WriteFile position 1E0000, size 131072
+[21:45:34  COM20]:WriteFile position 200000, size 131072
+[21:45:34  COM20]:WriteFile position 220000, size 131072
+[21:45:34  COM20]:WriteFile position 240000, size 131072
+[21:45:34  COM20]:WriteFile position 260000, size 131072
+[21:45:34  COM20]:WriteFile position 280000, size 131072
+[21:45:34  COM20]:WriteFile position 2A0000, size 131072
+[21:45:34  COM20]:WriteFile position 2C0000, size 131072
+[21:45:34  COM20]:WriteFile position 2E0000, size 131072
+[21:45:34  COM20]:WriteFile position 300000, size 131072
+[21:45:34  COM20]:destruct close file F:\program\MIUI\ROM\FASTBOOT\recovery\images\prog_emmc_firehose_8976_ddr.mbn
+[21:45:34  COM20]:WriteFile position 320000, size 131072
+[21:45:34  COM20]:WriteFile position 340000, size 131072
+[21:45:34  COM20]:WriteFile position 360000, size 131072
+[21:45:34  COM20]:WriteFile position 380000, size 131072
+[21:45:34  COM20]:WriteFile position 3A0000, size 131072
+[21:45:34  COM20]:WriteFile position 3C0000, size 131072
+[21:45:34  COM20]:WriteFile position 3E0000, size 131072
+[21:45:34  COM20]:WriteFile position 400000, size 131072
+[21:45:34  COM20]:WriteFile position 420000, size 131072
+[21:45:35  COM20]:WriteFile position 440000, size 131072
+[21:45:35  COM20]:WriteFile position 460000, size 131072
+[21:45:35  COM20]:WriteFile position 480000, size 131072
+[21:45:35  COM20]:WriteFile position 4A0000, size 131072
+[21:45:35  COM20]:WriteFile position 4C0000, size 131072
+[21:45:35  COM20]:WriteFile position 4E0000, size 131072
+[21:45:35  COM20]:WriteFile position 500000, size 131072
+[21:45:35  COM20]:WriteFile position 520000, size 131072
+[21:45:35  COM20]:WriteFile position 540000, size 131072
+[21:45:35  COM20]:WriteFile position 560000, size 131072
+[21:45:35  COM20]:WriteFile position 580000, size 131072
+[21:45:35  COM20]:WriteFile position 5A0000, size 131072
+[21:45:35  COM20]:WriteFile position 5C0000, size 131072
+[21:45:35  COM20]:WriteFile position 5E0000, size 131072
+[21:45:35  COM20]:WriteFile position 600000, size 131072
+[21:45:35  COM20]:WriteFile position 620000, size 131072
+[21:45:35  COM20]:WriteFile position 640000, size 131072
+[21:45:35  COM20]:WriteFile position 660000, size 131072
+[21:45:35  COM20]:WriteFile position 680000, size 131072
+[21:45:35  COM20]:WriteFile position 6A0000, size 131072
+[21:45:35  COM20]:WriteFile position 6C0000, size 131072
+[21:45:35  COM20]:WriteFile position 6E0000, size 131072
+[21:45:35  COM20]:WriteFile position 700000, size 131072
+[21:45:35  COM20]:WriteFile position 720000, size 131072
+[21:45:35  COM20]:WriteFile position 740000, size 131072
+[21:45:35  COM20]:WriteFile position 760000, size 131072
+[21:45:35  COM20]:WriteFile position 780000, size 131072
+[21:45:35  COM20]:WriteFile position 7A0000, size 131072
+[21:45:35  COM20]:WriteFile position 7C0000, size 131072
+[21:45:35  COM20]:WriteFile position 7E0000, size 131072
+[21:45:35  COM20]:WriteFile position 800000, size 131072
+[21:45:35  COM20]:WriteFile position 820000, size 131072
+[21:45:35  COM20]:WriteFile position 840000, size 131072
+[21:45:35  COM20]:WriteFile position 860000, size 131072
+[21:45:35  COM20]:WriteFile position 880000, size 131072
+[21:45:35  COM20]:WriteFile position 8A0000, size 131072
+[21:45:35  COM20]:WriteFile position 8C0000, size 131072
+[21:45:35  COM20]:WriteFile position 8E0000, size 131072
+[21:45:35  COM20]:WriteFile position 900000, size 131072
+[21:45:35  COM20]:WriteFile position 920000, size 131072
+[21:45:35  COM20]:WriteFile position 940000, size 131072
+[21:45:35  COM20]:WriteFile position 960000, size 131072
+[21:45:35  COM20]:WriteFile position 980000, size 131072
+[21:45:35  COM20]:WriteFile position 9A0000, size 131072
+[21:45:35  COM20]:WriteFile position 9C0000, size 131072
+[21:45:35  COM20]:WriteFile position 9E0000, size 131072
+[21:45:35  COM20]:WriteFile position A00000, size 131072
+[21:45:35  COM20]:WriteFile position A20000, size 131072
+[21:45:35  COM20]:WriteFile position A40000, size 131072
+[21:45:35  COM20]:WriteFile position A60000, size 131072
+[21:45:35  COM20]:WriteFile position A80000, size 131072
+[21:45:35  COM20]:WriteFile position AA0000, size 131072
+[21:45:35  COM20]:WriteFile position AC0000, size 131072
+[21:45:35  COM20]:WriteFile position AE0000, size 131072
+[21:45:35  COM20]:WriteFile position B00000, size 131072
+[21:45:35  COM20]:WriteFile position B20000, size 131072
+[21:45:35  COM20]:WriteFile position B40000, size 131072
+[21:45:35  COM20]:WriteFile position B60000, size 131072
+[21:45:36  COM20]:WriteFile position B80000, size 131072
+[21:45:36  COM20]:WriteFile position BA0000, size 131072
+[21:45:36  COM20]:WriteFile position BC0000, size 131072
+[21:45:36  COM20]:WriteFile position BE0000, size 131072
+[21:45:36  COM20]:WriteFile position C00000, size 131072
+[21:45:36  COM20]:WriteFile position C20000, size 131072
+[21:45:36  COM20]:WriteFile position C40000, size 131072
+[21:45:36  COM20]:WriteFile position C60000, size 131072
+[21:45:36  COM20]:WriteFile position C80000, size 131072
+[21:45:36  COM20]:WriteFile position CA0000, size 131072
+[21:45:36  COM20]:WriteFile position CC0000, size 131072
+[21:45:36  COM20]:WriteFile position CE0000, size 131072
+[21:45:36  COM20]:WriteFile position D00000, size 131072
+[21:45:36  COM20]:WriteFile position D20000, size 131072
+[21:45:36  COM20]:WriteFile position D40000, size 131072
+[21:45:36  COM20]:WriteFile position D60000, size 131072
+[21:45:36  COM20]:WriteFile position D80000, size 131072
+[21:45:36  COM20]:WriteFile position DA0000, size 131072
+[21:45:36  COM20]:WriteFile position DC0000, size 131072
+[21:45:36  COM20]:WriteFile position DE0000, size 131072
+[21:45:36  COM20]:WriteFile position E00000, size 131072
+[21:45:36  COM20]:WriteFile position E20000, size 131072
+[21:45:36  COM20]:WriteFile position E40000, size 131072
+[21:45:36  COM20]:WriteFile position E60000, size 131072
+[21:45:36  COM20]:WriteFile position E80000, size 131072
+[21:45:36  COM20]:WriteFile position EA0000, size 131072
+[21:45:36  COM20]:WriteFile position EC0000, size 131072
+[21:45:36  COM20]:WriteFile position EE0000, size 131072
+[21:45:36  COM20]:WriteFile position F00000, size 131072
+[21:45:36  COM20]:WriteFile position F20000, size 131072
+[21:45:36  COM20]:WriteFile position F40000, size 131072
+[21:45:36  COM20]:WriteFile position F60000, size 131072
+[21:45:36  COM20]:WriteFile position F80000, size 131072
+[21:45:36  COM20]:WriteFile position FA0000, size 131072
+[21:45:37  COM20]:WriteFile position FC0000, size 131072
+[21:45:37  COM20]:WriteFile position FE0000, size 131072
+[21:45:37  COM20]:WriteFile position 1000000, size 131072
+[21:45:37  COM20]:WriteFile position 1020000, size 131072
+[21:45:37  COM20]:WriteFile position 1040000, size 131072
+[21:45:37  COM20]:WriteFile position 1060000, size 131072
+[21:45:37  COM20]:WriteFile position 1080000, size 131072
+[21:45:37  COM20]:WriteFile position 10A0000, size 131072
+[21:45:37  COM20]:WriteFile position 10C0000, size 131072
+[21:45:37  COM20]:WriteFile position 10E0000, size 131072
+[21:45:37  COM20]:WriteFile position 1100000, size 131072
+[21:45:37  COM20]:WriteFile position 1120000, size 131072
+[21:45:37  COM20]:WriteFile position 1140000, size 131072
+[21:45:37  COM20]:WriteFile position 1160000, size 131072
+[21:45:37  COM20]:WriteFile position 1180000, size 131072
+[21:45:37  COM20]:WriteFile position 11A0000, size 131072
+[21:45:37  COM20]:WriteFile position 11C0000, size 131072
+[21:45:37  COM20]:WriteFile position 11E0000, size 131072
+[21:45:37  COM20]:WriteFile position 1200000, size 131072
+[21:45:37  COM20]:WriteFile position 1220000, size 131072
+[21:45:37  COM20]:WriteFile position 1240000, size 131072
+[21:45:37  COM20]:WriteFile position 1260000, size 131072
+[21:45:37  COM20]:WriteFile position 1280000, size 131072
+[21:45:37  COM20]:WriteFile position 12A0000, size 131072
+[21:45:37  COM20]:WriteFile position 12C0000, size 131072
+[21:45:37  COM20]:WriteFile position 12E0000, size 131072
+[21:45:37  COM20]:WriteFile position 1300000, size 131072
+[21:45:37  COM20]:WriteFile position 1320000, size 131072
+[21:45:37  COM20]:WriteFile position 1340000, size 131072
+[21:45:37  COM20]:WriteFile position 1360000, size 131072
+[21:45:37  COM20]:WriteFile position 1380000, size 131072
+[21:45:37  COM20]:WriteFile position 13A0000, size 131072
+[21:45:37  COM20]:WriteFile position 13C0000, size 131072
+[21:45:37  COM20]:WriteFile position 13E0000, size 131072
+[21:45:37  COM20]:WriteFile position 1400000, size 131072
+[21:45:37  COM20]:WriteFile position 1420000, size 131072
+[21:45:38  COM20]:WriteFile position 1440000, size 131072
+[21:45:38  COM20]:WriteFile position 1460000, size 131072
+[21:45:38  COM20]:WriteFile position 1480000, size 131072
+[21:45:38  COM20]:WriteFile position 14A0000, size 131072
+[21:45:38  COM20]:WriteFile position 14C0000, size 131072
+[21:45:38  COM20]:WriteFile position 14E0000, size 131072
+[21:45:38  COM20]:WriteFile position 1500000, size 131072
+[21:45:38  COM20]:WriteFile position 1520000, size 131072
+[21:45:38  COM20]:WriteFile position 1540000, size 131072
+[21:45:38  COM20]:WriteFile position 1560000, size 131072
+[21:45:38  COM20]:WriteFile position 1580000, size 131072
+[21:45:38  COM20]:WriteFile position 15A0000, size 131072
+[21:45:38  COM20]:WriteFile position 15C0000, size 131072
+[21:45:38  COM20]:WriteFile position 15E0000, size 131072
+[21:45:38  COM20]:WriteFile position 1600000, size 131072
+[21:45:38  COM20]:WriteFile position 1620000, size 131072
+[21:45:38  COM20]:WriteFile position 1640000, size 131072
+[21:45:38  COM20]:WriteFile position 1660000, size 131072
+[21:45:38  COM20]:WriteFile position 1680000, size 131072
+[21:45:38  COM20]:WriteFile position 16A0000, size 131072
+[21:45:38  COM20]:WriteFile position 16C0000, size 131072
+[21:45:38  COM20]:WriteFile position 16E0000, size 131072
+[21:45:38  COM20]:WriteFile position 1700000, size 131072
+[21:45:38  COM20]:WriteFile position 1720000, size 131072
+[21:45:38  COM20]:WriteFile position 1740000, size 131072
+[21:45:38  COM20]:WriteFile position 1760000, size 131072
+[21:45:38  COM20]:WriteFile position 1780000, size 131072
+[21:45:38  COM20]:WriteFile position 17A0000, size 131072
+[21:45:38  COM20]:WriteFile position 17C0000, size 131072
+[21:45:38  COM20]:WriteFile position 17E0000, size 131072
+[21:45:38  COM20]:WriteFile position 1800000, size 131072
+[21:45:38  COM20]:WriteFile position 1820000, size 131072
+[21:45:38  COM20]:WriteFile position 1840000, size 131072
+[21:45:38  COM20]:WriteFile position 1860000, size 131072
+[21:45:38  COM20]:WriteFile position 1880000, size 131072
+[21:45:38  COM20]:WriteFile position 18A0000, size 131072
+[21:45:38  COM20]:WriteFile position 18C0000, size 131072
+[21:45:38  COM20]:WriteFile position 18E0000, size 131072
+[21:45:38  COM20]:WriteFile position 1900000, size 131072
+[21:45:38  COM20]:WriteFile position 1920000, size 131072
+[21:45:38  COM20]:WriteFile position 1940000, size 131072
+[21:45:38  COM20]:WriteFile position 1960000, size 131072
+[21:45:39  COM20]:WriteFile position 1980000, size 131072
+[21:45:39  COM20]:WriteFile position 19A0000, size 131072
+[21:45:39  COM20]:WriteFile position 19C0000, size 131072
+[21:45:39  COM20]:WriteFile position 19E0000, size 131072
+[21:45:39  COM20]:WriteFile position 1A00000, size 131072
+[21:45:39  COM20]:WriteFile position 1A20000, size 131072
+[21:45:39  COM20]:WriteFile position 1A40000, size 131072
+[21:45:39  COM20]:WriteFile position 1A60000, size 131072
+[21:45:39  COM20]:WriteFile position 1A80000, size 131072
+[21:45:39  COM20]:WriteFile position 1AA0000, size 131072
+[21:45:39  COM20]:WriteFile position 1AC0000, size 131072
+[21:45:39  COM20]:WriteFile position 1AE0000, size 131072
+[21:45:39  COM20]:WriteFile position 1B00000, size 131072
+[21:45:39  COM20]:WriteFile position 1B20000, size 131072
+[21:45:39  COM20]:WriteFile position 1B40000, size 131072
+[21:45:39  COM20]:WriteFile position 1B60000, size 131072
+[21:45:39  COM20]:WriteFile position 1B80000, size 131072
+[21:45:39  COM20]:WriteFile position 1BA0000, size 131072
+[21:45:39  COM20]:WriteFile position 1BC0000, size 131072
+[21:45:39  COM20]:WriteFile position 1BE0000, size 131072
+[21:45:39  COM20]:WriteFile position 1C00000, size 131072
+[21:45:39  COM20]:WriteFile position 1C20000, size 131072
+[21:45:39  COM20]:WriteFile position 1C40000, size 131072
+[21:45:39  COM20]:WriteFile position 1C60000, size 131072
+[21:45:39  COM20]:WriteFile position 1C80000, size 131072
+[21:45:39  COM20]:WriteFile position 1CA0000, size 131072
+[21:45:39  COM20]:WriteFile position 1CC0000, size 131072
+[21:45:39  COM20]:WriteFile position 1CE0000, size 131072
+[21:45:39  COM20]:WriteFile position 1D00000, size 131072
+[21:45:39  COM20]:WriteFile position 1D20000, size 131072
+[21:45:39  COM20]:WriteFile position 1D40000, size 131072
+[21:45:39  COM20]:WriteFile position 1D60000, size 131072
+[21:45:40  COM20]:WriteFile position 1D80000, size 131072
+[21:45:40  COM20]:WriteFile position 1DA0000, size 131072
+[21:45:40  COM20]:WriteFile position 1DC0000, size 131072
+[21:45:40  COM20]:WriteFile position 1DE0000, size 131072
+[21:45:40  COM20]:WriteFile position 1E00000, size 131072
+[21:45:40  COM20]:WriteFile position 1E20000, size 131072
+[21:45:40  COM20]:WriteFile position 1E40000, size 131072
+[21:45:40  COM20]:WriteFile position 1E60000, size 131072
+[21:45:40  COM20]:WriteFile position 1E80000, size 131072
+[21:45:40  COM20]:WriteFile position 1EA0000, size 131072
+[21:45:40  COM20]:WriteFile position 1EC0000, size 131072
+[21:45:40  COM20]:WriteFile position 1EE0000, size 131072
+[21:45:40  COM20]:WriteFile position 1F00000, size 131072
+[21:45:40  COM20]:WriteFile position 1F20000, size 131072
+[21:45:40  COM20]:WriteFile position 1F40000, size 131072
+[21:45:40  COM20]:WriteFile position 1F60000, size 131072
+[21:45:40  COM20]:WriteFile position 1F80000, size 131072
+[21:45:40  COM20]:WriteFile position 1FA0000, size 131072
+[21:45:40  COM20]:WriteFile position 1FC0000, size 131072
+[21:45:40  COM20]:WriteFile position 1FE0000, size 131072
+[21:45:40  COM20]:WriteFile position 2000000, size 131072
+[21:45:40  COM20]:WriteFile position 2020000, size 131072
+[21:45:40  COM20]:WriteFile position 2040000, size 131072
+[21:45:40  COM20]:WriteFile position 2060000, size 131072
+[21:45:40  COM20]:WriteFile position 2080000, size 131072
+[21:45:40  COM20]:WriteFile position 20A0000, size 131072
+[21:45:40  COM20]:WriteFile position 20C0000, size 131072
+[21:45:40  COM20]:WriteFile position 20E0000, size 131072
+[21:45:40  COM20]:WriteFile position 2100000, size 131072
+[21:45:40  COM20]:WriteFile position 2120000, size 131072
+[21:45:40  COM20]:WriteFile position 2140000, size 131072
+[21:45:40  COM20]:WriteFile position 2160000, size 131072
+[21:45:40  COM20]:WriteFile position 2180000, size 131072
+[21:45:40  COM20]:WriteFile position 21A0000, size 131072
+[21:45:40  COM20]:WriteFile position 21C0000, size 131072
+[21:45:40  COM20]:WriteFile position 21E0000, size 131072
+[21:45:41  COM20]:WriteFile position 2200000, size 131072
+[21:45:41  COM20]:WriteFile position 2220000, size 131072
+[21:45:41  COM20]:WriteFile position 2240000, size 131072
+[21:45:41  COM20]:WriteFile position 2260000, size 131072
+[21:45:41  COM20]:WriteFile position 2280000, size 131072
+[21:45:41  COM20]:WriteFile position 22A0000, size 131072
+[21:45:41  COM20]:WriteFile position 22C0000, size 131072
+[21:45:41  COM20]:WriteFile position 22E0000, size 131072
+[21:45:41  COM20]:WriteFile position 2300000, size 131072
+[21:45:41  COM20]:WriteFile position 2320000, size 131072
+[21:45:41  COM20]:WriteFile position 2340000, size 131072
+[21:45:41  COM20]:WriteFile position 2360000, size 131072
+[21:45:41  COM20]:WriteFile position 2380000, size 131072
+[21:45:41  COM20]:WriteFile position 23A0000, size 131072
+[21:45:41  COM20]:WriteFile position 23C0000, size 131072
+[21:45:41  COM20]:WriteFile position 23E0000, size 131072
+[21:45:41  COM20]:WriteFile position 2400000, size 131072
+[21:45:41  COM20]:WriteFile position 2420000, size 131072
+[21:45:41  COM20]:WriteFile position 2440000, size 131072
+[21:45:41  COM20]:WriteFile position 2460000, size 131072
+[21:45:41  COM20]:WriteFile position 2480000, size 131072
+[21:45:41  COM20]:WriteFile position 24A0000, size 131072
+[21:45:41  COM20]:WriteFile position 24C0000, size 131072
+[21:45:41  COM20]:WriteFile position 24E0000, size 131072
+[21:45:41  COM20]:WriteFile position 2500000, size 131072
+[21:45:41  COM20]:WriteFile position 2520000, size 131072
+[21:45:41  COM20]:WriteFile position 2540000, size 131072
+[21:45:41  COM20]:WriteFile position 2560000, size 131072
+[21:45:42  COM20]:WriteFile position 2580000, size 131072
+[21:45:42  COM20]:WriteFile position 25A0000, size 131072
+[21:45:42  COM20]:WriteFile position 25C0000, size 131072
+[21:45:42  COM20]:WriteFile position 25E0000, size 131072
+[21:45:42  COM20]:WriteFile position 2600000, size 131072
+[21:45:42  COM20]:WriteFile position 2620000, size 131072
+[21:45:42  COM20]:WriteFile position 2640000, size 131072
+[21:45:42  COM20]:WriteFile position 2660000, size 131072
+[21:45:42  COM20]:WriteFile position 2680000, size 131072
+[21:45:42  COM20]:WriteFile position 26A0000, size 131072
+[21:45:42  COM20]:WriteFile position 26C0000, size 131072
+[21:45:42  COM20]:WriteFile position 26E0000, size 131072
+[21:45:42  COM20]:WriteFile position 2700000, size 131072
+[21:45:42  COM20]:WriteFile position 2720000, size 131072
+[21:45:42  COM20]:WriteFile position 2740000, size 131072
+[21:45:42  COM20]:WriteFile position 2760000, size 131072
+[21:45:42  COM20]:WriteFile position 2780000, size 131072
+[21:45:42  COM20]:WriteFile position 27A0000, size 131072
+[21:45:42  COM20]:WriteFile position 27C0000, size 131072
+[21:45:42  COM20]:WriteFile position 27E0000, size 131072
+[21:45:42  COM20]:WriteFile position 2800000, size 131072
+[21:45:42  COM20]:WriteFile position 2820000, size 131072
+[21:45:42  COM20]:WriteFile position 2840000, size 131072
+[21:45:42  COM20]:WriteFile position 2860000, size 131072
+[21:45:42  COM20]:WriteFile position 2880000, size 131072
+[21:45:42  COM20]:WriteFile position 28A0000, size 131072
+[21:45:42  COM20]:WriteFile position 28C0000, size 131072
+[21:45:42  COM20]:WriteFile position 28E0000, size 131072
+[21:45:42  COM20]:WriteFile position 2900000, size 131072
+[21:45:42  COM20]:WriteFile position 2920000, size 131072
+[21:45:42  COM20]:WriteFile position 2940000, size 131072
+[21:45:42  COM20]:WriteFile position 2960000, size 131072
+[21:45:42  COM20]:WriteFile position 2980000, size 131072
+[21:45:42  COM20]:WriteFile position 29A0000, size 131072
+[21:45:42  COM20]:WriteFile position 29C0000, size 131072
+[21:45:42  COM20]:WriteFile position 29E0000, size 131072
+[21:45:43  COM20]:WriteFile position 2A00000, size 131072
+[21:45:43  COM20]:WriteFile position 2A20000, size 131072
+[21:45:43  COM20]:WriteFile position 2A40000, size 131072
+[21:45:43  COM20]:WriteFile position 2A60000, size 131072
+[21:45:43  COM20]:WriteFile position 2A80000, size 131072
+[21:45:43  COM20]:WriteFile position 2AA0000, size 131072
+[21:45:43  COM20]:WriteFile position 2AC0000, size 131072
+[21:45:43  COM20]:WriteFile position 2AE0000, size 131072
+[21:45:43  COM20]:WriteFile position 2B00000, size 131072
+[21:45:43  COM20]:WriteFile position 2B20000, size 131072
+[21:45:43  COM20]:WriteFile position 2B40000, size 131072
+[21:45:43  COM20]:WriteFile position 2B60000, size 131072
+[21:45:43  COM20]:WriteFile position 2B80000, size 131072
+[21:45:43  COM20]:WriteFile position 2BA0000, size 131072
+[21:45:43  COM20]:WriteFile position 2BC0000, size 131072
+[21:45:43  COM20]:WriteFile position 2BE0000, size 131072
+[21:45:43  COM20]:WriteFile position 2C00000, size 131072
+[21:45:43  COM20]:WriteFile position 2C20000, size 131072
+[21:45:43  COM20]:WriteFile position 2C40000, size 131072
+[21:45:43  COM20]:WriteFile position 2C60000, size 131072
+[21:45:43  COM20]:WriteFile position 2C80000, size 131072
+[21:45:43  COM20]:WriteFile position 2CA0000, size 131072
+[21:45:43  COM20]:WriteFile position 2CC0000, size 131072
+[21:45:43  COM20]:WriteFile position 2CE0000, size 131072
+[21:45:43  COM20]:WriteFile position 2D00000, size 131072
+[21:45:43  COM20]:WriteFile position 2D20000, size 131072
+[21:45:43  COM20]:WriteFile position 2D40000, size 131072
+[21:45:43  COM20]:WriteFile position 2D60000, size 131072
+[21:45:43  COM20]:WriteFile position 2D80000, size 131072
+[21:45:43  COM20]:WriteFile position 2DA0000, size 131072
+[21:45:43  COM20]:WriteFile position 2DC0000, size 131072
+[21:45:43  COM20]:WriteFile position 2DE0000, size 131072
+[21:45:43  COM20]:WriteFile position 2E00000, size 131072
+[21:45:43  COM20]:WriteFile position 2E20000, size 131072
+[21:45:44  COM20]:WriteFile position 2E40000, size 131072
+[21:45:44  COM20]:WriteFile position 2E60000, size 131072
+[21:45:44  COM20]:WriteFile position 2E80000, size 131072
+[21:45:44  COM20]:WriteFile position 2EA0000, size 131072
+[21:45:44  COM20]:WriteFile position 2EC0000, size 131072
+[21:45:44  COM20]:WriteFile position 2EE0000, size 131072
+[21:45:44  COM20]:WriteFile position 2F00000, size 131072
+[21:45:44  COM20]:WriteFile position 2F20000, size 131072
+[21:45:44  COM20]:WriteFile position 2F40000, size 131072
+[21:45:44  COM20]:WriteFile position 2F60000, size 131072
+[21:45:44  COM20]:WriteFile position 2F80000, size 131072
+[21:45:44  COM20]:WriteFile position 2FA0000, size 131072
+[21:45:44  COM20]:WriteFile position 2FC0000, size 131072
+[21:45:44  COM20]:WriteFile position 2FE0000, size 131072
+[21:45:44  COM20]:WriteFile position 3000000, size 131072
+[21:45:44  COM20]:WriteFile position 3020000, size 131072
+[21:45:44  COM20]:WriteFile position 3040000, size 131072
+[21:45:44  COM20]:WriteFile position 3060000, size 131072
+[21:45:44  COM20]:WriteFile position 3080000, size 131072
+[21:45:44  COM20]:WriteFile position 30A0000, size 131072
+[21:45:44  COM20]:WriteFile position 30C0000, size 131072
+[21:45:44  COM20]:WriteFile position 30E0000, size 131072
+[21:45:44  COM20]:WriteFile position 3100000, size 131072
+[21:45:44  COM20]:WriteFile position 3120000, size 131072
+[21:45:44  COM20]:WriteFile position 3140000, size 131072
+[21:45:44  COM20]:WriteFile position 3160000, size 131072
+[21:45:44  COM20]:WriteFile position 3180000, size 131072
+[21:45:44  COM20]:WriteFile position 31A0000, size 131072
+[21:45:44  COM20]:WriteFile position 31C0000, size 131072
+[21:45:44  COM20]:WriteFile position 31E0000, size 131072
+[21:45:44  COM20]:WriteFile position 3200000, size 131072
+[21:45:44  COM20]:WriteFile position 3220000, size 131072
+[21:45:44  COM20]:WriteFile position 3240000, size 131072
+[21:45:44  COM20]:WriteFile position 3260000, size 131072
+[21:45:44  COM20]:WriteFile position 3280000, size 131072
+[21:45:44  COM20]:WriteFile position 32A0000, size 131072
+[21:45:44  COM20]:WriteFile position 32C0000, size 131072
+[21:45:44  COM20]:WriteFile position 32E0000, size 131072
+[21:45:44  COM20]:WriteFile position 3300000, size 131072
+[21:45:44  COM20]:WriteFile position 3320000, size 131072
+[21:45:44  COM20]:WriteFile position 3340000, size 131072
+[21:45:44  COM20]:WriteFile position 3360000, size 131072
+[21:45:44  COM20]:WriteFile position 3380000, size 131072
+[21:45:44  COM20]:WriteFile position 33A0000, size 131072
+[21:45:44  COM20]:WriteFile position 33C0000, size 131072
+[21:45:44  COM20]:WriteFile position 33E0000, size 131072
+[21:45:44  COM20]:WriteFile position 3400000, size 131072
+[21:45:45  COM20]:WriteFile position 3420000, size 131072
+[21:45:45  COM20]:WriteFile position 3440000, size 131072
+[21:45:45  COM20]:WriteFile position 3460000, size 131072
+[21:45:45  COM20]:WriteFile position 3480000, size 131072
+[21:45:45  COM20]:WriteFile position 34A0000, size 131072
+[21:45:45  COM20]:WriteFile position 34C0000, size 131072
+[21:45:45  COM20]:WriteFile position 34E0000, size 131072
+[21:45:45  COM20]:WriteFile position 3500000, size 131072
+[21:45:45  COM20]:WriteFile position 3520000, size 131072
+[21:45:45  COM20]:WriteFile position 3540000, size 131072
+[21:45:45  COM20]:WriteFile position 3560000, size 131072
+[21:45:45  COM20]:WriteFile position 3580000, size 131072
+[21:45:45  COM20]:WriteFile position 35A0000, size 131072
+[21:45:45  COM20]:WriteFile position 35C0000, size 131072
+[21:45:45  COM20]:WriteFile position 35E0000, size 131072
+[21:45:45  COM20]:WriteFile position 3600000, size 131072
+[21:45:45  COM20]:WriteFile position 3620000, size 131072
+[21:45:45  COM20]:WriteFile position 3640000, size 131072
+[21:45:45  COM20]:WriteFile position 3660000, size 131072
+[21:45:45  COM20]:WriteFile position 3680000, size 131072
+[21:45:45  COM20]:WriteFile position 36A0000, size 131072
+[21:45:45  COM20]:WriteFile position 36C0000, size 131072
+[21:45:45  COM20]:WriteFile position 36E0000, size 131072
+[21:45:45  COM20]:WriteFile position 3700000, size 131072
+[21:45:45  COM20]:WriteFile position 3720000, size 131072
+[21:45:45  COM20]:WriteFile position 3740000, size 131072
+[21:45:45  COM20]:WriteFile position 3760000, size 131072
+[21:45:45  COM20]:WriteFile position 3780000, size 131072
+[21:45:45  COM20]:WriteFile position 37A0000, size 131072
+[21:45:45  COM20]:WriteFile position 37C0000, size 131072
+[21:45:45  COM20]:WriteFile position 37E0000, size 131072
+[21:45:45  COM20]:WriteFile position 3800000, size 131072
+[21:45:45  COM20]:WriteFile position 3820000, size 131072
+[21:45:45  COM20]:WriteFile position 3840000, size 131072
+[21:45:45  COM20]:WriteFile position 3860000, size 131072
+[21:45:45  COM20]:WriteFile position 3880000, size 131072
+[21:45:45  COM20]:WriteFile position 38A0000, size 131072
+[21:45:45  COM20]:WriteFile position 38C0000, size 131072
+[21:45:45  COM20]:WriteFile position 38E0000, size 131072
+[21:45:45  COM20]:WriteFile position 3900000, size 131072
+[21:45:45  COM20]:WriteFile position 3920000, size 131072
+[21:45:45  COM20]:WriteFile position 3940000, size 131072
+[21:45:45  COM20]:WriteFile position 3960000, size 131072
+[21:45:45  COM20]:WriteFile position 3980000, size 131072
+[21:45:45  COM20]:WriteFile position 39A0000, size 131072
+[21:45:45  COM20]:WriteFile position 39C0000, size 131072
+[21:45:45  COM20]:WriteFile position 39E0000, size 131072
+[21:45:45  COM20]:WriteFile position 3A00000, size 131072
+[21:45:45  COM20]:WriteFile position 3A20000, size 131072
+[21:45:45  COM20]:WriteFile position 3A40000, size 131072
+[21:45:45  COM20]:WriteFile position 3A60000, size 131072
+[21:45:45  COM20]:WriteFile position 3A80000, size 131072
+[21:45:45  COM20]:WriteFile position 3AA0000, size 131072
+[21:45:45  COM20]:WriteFile position 3AC0000, size 131072
+[21:45:45  COM20]:WriteFile position 3AE0000, size 131072
+[21:45:45  COM20]:WriteFile position 3B00000, size 131072
+[21:45:45  COM20]:WriteFile position 3B20000, size 131072
+[21:45:45  COM20]:WriteFile position 3B40000, size 131072
+[21:45:45  COM20]:WriteFile position 3B60000, size 131072
+[21:45:45  COM20]:WriteFile position 3B80000, size 131072
+[21:45:45  COM20]:WriteFile position 3BA0000, size 131072
+[21:45:45  COM20]:WriteFile position 3BC0000, size 131072
+[21:45:45  COM20]:WriteFile position 3BE0000, size 131072
+[21:45:45  COM20]:WriteFile position 3C00000, size 131072
+[21:45:45  COM20]:WriteFile position 3C20000, size 131072
+[21:45:46  COM20]:WriteFile position 3C40000, size 131072
+[21:45:46  COM20]:WriteFile position 3C60000, size 131072
+[21:45:46  COM20]:WriteFile position 3C80000, size 131072
+[21:45:46  COM20]:WriteFile position 3CA0000, size 131072
+[21:45:46  COM20]:WriteFile position 3CC0000, size 131072
+[21:45:46  COM20]:WriteFile position 3CE0000, size 131072
+[21:45:46  COM20]:WriteFile position 3D00000, size 131072
+[21:45:46  COM20]:WriteFile position 3D20000, size 131072
+[21:45:46  COM20]:WriteFile position 3D40000, size 131072
+[21:45:46  COM20]:WriteFile position 3D60000, size 131072
+[21:45:46  COM20]:WriteFile position 3D80000, size 131072
+[21:45:46  COM20]:WriteFile position 3DA0000, size 131072
+[21:45:46  COM20]:WriteFile position 3DC0000, size 131072
+[21:45:46  COM20]:WriteFile position 3DE0000, size 131072
+[21:45:46  COM20]:WriteFile position 3E00000, size 131072
+[21:45:46  COM20]:WriteFile position 3E20000, size 131072
+[21:45:46  COM20]:WriteFile position 3E40000, size 131072
+[21:45:46  COM20]:WriteFile position 3E60000, size 131072
+[21:45:46  COM20]:WriteFile position 3E80000, size 131072
+[21:45:46  COM20]:WriteFile position 3EA0000, size 131072
+[21:45:46  COM20]:WriteFile position 3EC0000, size 131072
+[21:45:46  COM20]:WriteFile position 3EE0000, size 131072
+[21:45:46  COM20]:WriteFile position 3F00000, size 131072
+[21:45:46  COM20]:WriteFile position 3F20000, size 131072
+[21:45:46  COM20]:WriteFile position 3F40000, size 131072
+[21:45:46  COM20]:WriteFile position 3F60000, size 131072
+[21:45:46  COM20]:WriteFile position 3F80000, size 131072
+[21:45:46  COM20]:WriteFile position 3FA0000, size 131072
+[21:45:46  COM20]:WriteFile position 3FC0000, size 131072
+[21:45:46  COM20]:WriteFile position 3FE0000, size 131072
+[21:45:46  COM20]:Image F:\program\MIUI\ROM\FASTBOOT\recovery\images\recovery.img transferred successfully
+[21:45:46  COM20]:Index was outside the bounds of the array.
+[21:45:46  COM20]:   at XiaoMiFlash.code.bl.SerialPortDevice.FirehoseDownloadImg(String swPath) in F:\Dev\mi\MiFlash\code\bl\SerialPortDevice.cs:line 355
+   at XiaoMiFlash.code.bl.SerialPortDevice.flash() in F:\Dev\mi\MiFlash\code\bl\SerialPortDevice.cs:line 66
+[21:46:24  COM20]:destruct close file F:\program\MIUI\ROM\FASTBOOT\recovery\images\recovery.img

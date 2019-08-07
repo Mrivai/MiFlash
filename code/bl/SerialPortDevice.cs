@@ -1,5 +1,8 @@
 ﻿
 
+
+//for flash rom via edl
+
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -24,6 +27,7 @@ namespace XiaoMiFlash.code.bl
 
         public override void flash()
         {
+            //return nothing if device not detected
             if (string.IsNullOrEmpty(deviceName))
                 return;
             if (!Directory.Exists(swPath))
@@ -39,8 +43,10 @@ namespace XiaoMiFlash.code.bl
             try
             {
                 FlashingDevice.UpdateDeviceStatus(deviceName, new float?(0.0f), "start flash", "flashing", false);
+                //register port example (COM10)
                 registerPort(deviceName);
                 SaharaDownloadProgrammer();
+
                 Thread.Sleep(1000);
                 PropareFirehose();
                 ConfigureDDR(comm.intSectorSize, BUFFER_SECTORS, storageType, 0);
@@ -100,10 +106,6 @@ namespace XiaoMiFlash.code.bl
                 sahara_hello_response saharaHelloResponse = new sahara_hello_response();
                 saharaHelloResponse.Reserved = new uint[6];
                 sahara_switch_Mode_packet switchModePacket = new sahara_switch_Mode_packet();
-                sahara_readdata_packet saharaReaddataPacket = new sahara_readdata_packet();
-                sahara_64b_readdata_packet obj = new sahara_64b_readdata_packet();
-                sahara_end_transfer_packet endTransferPacket = new sahara_end_transfer_packet();
-                sahara_done_response saharaDoneResponse = new sahara_done_response();
                 int num = 20;
                 while (num-- > 0 && (int)stuct1.Command != 1)
                 {
@@ -296,6 +298,7 @@ namespace XiaoMiFlash.code.bl
         private bool Reboot(string portName)
         {
             Log.w(comm.serialPort.PortName, "reboot target");
+
             FlashingDevice.UpdateDeviceStatus(comm.serialPort.PortName, new float?(0.0f), "reboot target", "flashing", false);
             if (!comm.SendCommand(Firehose.Reset_To_Edl, true))
                 throw new Exception("reboot target failed");
@@ -342,6 +345,7 @@ namespace XiaoMiFlash.code.bl
 
         private void FirehoseDownloadImg(string swPath)
         {
+            // find rawprogram0.xml
             string[] strArray1 = FileSearcher.SearchFiles(swPath, SoftwareImage.RawProgramPattern);
             string[] strArray2 = FileSearcher.SearchFiles(swPath, SoftwareImage.PatchPattern);
             for (int index = 0; index < strArray1.Length; ++index)
@@ -407,19 +411,25 @@ namespace XiaoMiFlash.code.bl
                                 continue;
                         }
                     }
+                    //bypass if filename is emty
                     if (!string.IsNullOrEmpty(str1))
                     {
+                        //str1 = swpath + \ + filename
                         str1 = swPath + "\\" + str1;
                         if (str1.IndexOf("gpt_main1") >= 0 || str1.IndexOf("gpt_main2") >= 0)
                             Thread.Sleep(3000);
+                        //check if sparse = true
                         if (flag2)
                         {
                             Log.w(comm.serialPort.PortName, string.Format("Write sparse file {0} to partition[{1}] sector {2}", str1, str7, str3));
+                            //write image to device via file transfer using comm and write image with parameter {start_sector, num_partition_sectors, filename, file_sector_offset, sector_size_in_bytes, physical_partition_number}
                             new FileTransfer(comm.serialPort.PortName, str1).WriteSparseFileToDevice(this, str3, str4, str1, str2, str6, str5);
                         }
                         else
                         {
                             Log.w(comm.serialPort.PortName, string.Format("Write file {0} to partition[{1}] sector {2}", str1, str7, str3));
+                            //write image to device via file transfer using comm and write image with parameter {start_sector, num_partition_sectors, filename, file_sector_offset, 0, sector_size_in_bytes, physical_partition_number }
+                            //just add 0 value to the parameter
                             new FileTransfer(comm.serialPort.PortName, str1).WriteFile(this, str3, str4, str1, str2, "0", str6, str5);
                         }
                         Log.w(comm.serialPort.PortName, string.Format("Image {0} transferred successfully", str1));

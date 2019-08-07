@@ -1,4 +1,4 @@
-﻿
+﻿//get md5 from file
 
 using System;
 using System.IO;

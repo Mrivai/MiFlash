@@ -19,3 +19,13 @@ F:\Dev\mi\XiaoMiFlash\obj\Debug\XiaoMiFlash.Properties.Resources.resources
 F:\Dev\mi\XiaoMiFlash\obj\Debug\XiaoMiFlash.csproj.GenerateResource.Cache
 F:\Dev\mi\XiaoMiFlash\bin\Debug\XiaoMiFlash.exe.CodeAnalysisLog.xml
 F:\Dev\mi\XiaoMiFlash\bin\Debug\XiaoMiFlash.exe.lastcodeanalysissucceeded
+F:\Dev\mi\MiFlash\obj\Debug\XiaoMiFlash.exe
+F:\Dev\mi\MiFlash\obj\Debug\XiaoMiFlash.pdb
+F:\Dev\mi\MiFlash\bin\Debug\XiaoMiFlash.exe
+F:\Dev\mi\MiFlash\bin\Debug\XiaoMiFlash.pdb
+F:\Dev\mi\MiFlash\obj\Debug\XiaoMiFlash.form.ConfigurationFrm.resources
+F:\Dev\mi\MiFlash\obj\Debug\XiaoMiFlash.form.ProcessFrm.resources
+F:\Dev\mi\MiFlash\obj\Debug\XiaoMiFlash.MainFrm.resources
+F:\Dev\mi\MiFlash\obj\Debug\XiaoMiFlash.Properties.Resources.resources
+F:\Dev\mi\MiFlash\obj\Debug\XiaoMiFlash.csproj.GenerateResource.Cache
+F:\Dev\mi\MiFlash\obj\Debug\XiaoMiFlash.csprojResolveAssemblyReference.cache

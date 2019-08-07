@@ -1,0 +1,1 @@
+pushd "F:\Dev\mi\MiFlash\bin\Debug\images"&&prompt $$&&set PATH="F:\Dev\mi\MiFlash\bin\Debug\Source\ThirdParty\Google\Android";%PATH%&&"F:\Dev\mi\MiFlash\bin\Debug\images\flash_all.bat" -s 46a5a5c8&&popd

@@ -1,0 +1,18 @@
+[2:41:06]:Commad:pushd "F:\Dev\mi\MiFlash\bin\Debug\images"&&prompt $$&&set PATH="F:\Dev\mi\MiFlash\bin\Debug\Source\ThirdParty\Google\Android";%PATH%&&"flash.bat" -s djhgjhgvjh&&popd
+[2:41:07]:fastboot path: F:\Dev\mi\MiFlash\bin\Debug\Source\ThirdParty\Google\Android\fastboot.exe
+[2:41:31]:Commad:pushd "F:\Dev\mi\MiFlash\bin\Debug\images"&&prompt $$&&set PATH="F:\Dev\mi\MiFlash\bin\Debug\Source\ThirdParty\Google\Android";%PATH%&&"flash.bat" -s djhgjhgvjh&&popd
+[2:41:31]:fastboot path: F:\Dev\mi\MiFlash\bin\Debug\Source\ThirdParty\Google\Android\fastboot.exe
+[2:41:48]:Commad:pushd "F:\Dev\mi\MiFlash\bin\Debug\images"&&prompt $$&&set PATH="F:\Dev\mi\MiFlash\bin\Debug\Source\ThirdParty\Google\Android";%PATH%&&"flash.bat" -s djhgjhgvjh&&popd
+[2:41:48]:fastboot path: F:\Dev\mi\MiFlash\bin\Debug\Source\ThirdParty\Google\Android\fastboot.exe
+[2:41:48]:Commad:pushd "F:\Dev\mi\MiFlash\bin\Debug\images"&&prompt $$&&set PATH="F:\Dev\mi\MiFlash\bin\Debug\Source\ThirdParty\Google\Android";%PATH%&&"flash.bat" -s djhgjhgvjh&&popd
+[2:41:49]:fastboot path: F:\Dev\mi\MiFlash\bin\Debug\Source\ThirdParty\Google\Android\fastboot.exe
+[2:41:49]:Nullable object must have a value.
+[2:41:52]:Commad:pushd "F:\Dev\mi\MiFlash\bin\Debug\images"&&prompt $$&&set PATH="F:\Dev\mi\MiFlash\bin\Debug\Source\ThirdParty\Google\Android";%PATH%&&"flash.bat" -s djhgjhgvjh&&popd
+[2:41:53]:fastboot path: F:\Dev\mi\MiFlash\bin\Debug\Source\ThirdParty\Google\Android\fastboot.exe
+[2:41:53]:Nullable object must have a value.
+[2:42:28]:Commad:pushd "F:\Dev\mi\MiFlash\bin\Debug\images"&&prompt $$&&set PATH="F:\Dev\mi\MiFlash\bin\Debug\Source\ThirdParty\Google\Android";%PATH%&&"flash.bat" -s djhgjhgvjh&&popd
+[2:42:28]:fastboot path: F:\Dev\mi\MiFlash\bin\Debug\Source\ThirdParty\Google\Android\fastboot.exe
+[2:42:59]:Commad:pushd "F:\Dev\mi\MiFlash\bin\Debug\images"&&prompt $$&&set PATH="F:\Dev\mi\MiFlash\bin\Debug\Source\ThirdParty\Google\Android";%PATH%&&"flash.bat" -s djhgjhgvjh&&popd
+[2:42:59]:fastboot path: F:\Dev\mi\MiFlash\bin\Debug\Source\ThirdParty\Google\Android\fastboot.exe
+[2:43:07]:Commad:pushd "F:\Dev\mi\MiFlash\bin\Debug\images"&&prompt $$&&set PATH="F:\Dev\mi\MiFlash\bin\Debug\Source\ThirdParty\Google\Android";%PATH%&&"flash.bat" -s djhgjhgvjh&&popd
+[2:43:08]:fastboot path: F:\Dev\mi\MiFlash\bin\Debug\Source\ThirdParty\Google\Android\fastboot.exe

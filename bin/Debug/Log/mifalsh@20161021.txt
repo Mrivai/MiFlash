@@ -1,8 +1,0 @@
-[21:28:22]:fastboot path: D:\Dev\mi\XiaoMiFlash\bin\Debug\Source\ThirdParty\Google\Android\fastboot.exe
-[21:28:22]:Nullable object must have a value.
-[21:28:36]:fastboot path: D:\Dev\mi\XiaoMiFlash\bin\Debug\Source\ThirdParty\Google\Android\fastboot.exe
-[21:29:00]:fastboot path: D:\Dev\mi\XiaoMiFlash\bin\Debug\Source\ThirdParty\Google\Android\fastboot.exe
-[21:29:00]:Nullable object must have a value.
-[21:30:31]:fastboot path: D:\Dev\mi\XiaoMiFlash\bin\Debug\Source\ThirdParty\Google\Android\fastboot.exe
-[21:30:34]:fastboot path: D:\Dev\mi\XiaoMiFlash\bin\Debug\Source\ThirdParty\Google\Android\fastboot.exe
-[21:30:34]:Nullable object must have a value.

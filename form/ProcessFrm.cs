@@ -9,7 +9,6 @@ namespace XiaoMiFlash.form
 {
     public class ProcessFrm : Form
     {
-        private IContainer components;
         private Label label1;
         private PictureBox pictureBox1;
 
@@ -24,8 +23,6 @@ namespace XiaoMiFlash.form
 
         protected override void Dispose(bool disposing)
         {
-            if (disposing && components != null)
-                components.Dispose();
             base.Dispose(disposing);
         }
 
